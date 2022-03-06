@@ -1,1 +1,1 @@
-<img src="https://gfycat.com/JointScarceBirdofparadise">
+<img src="https://thumbs.gfycat.com/JointScarceBirdofparadise-size_restricted.gif">
