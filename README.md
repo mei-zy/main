@@ -2,8 +2,6 @@
 
 <img src="https://t1.daumcdn.net/cfile/blog/225AD836533908881B">
 
-🖤 <a href="https://pear-meal-b3e.notion.site/0e389a94b8fc49d598563c3f30060914" target="_blank">Resume</a> 🖤 
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mingsomm)](https://velog.io/@mingsomm)
 
 ## Tech Stack ⚒
