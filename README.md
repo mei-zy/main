@@ -1,7 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Further&count_bg=%23ED468D&title_bg=%235C5C5C&icon=&icon_color=%23F9F9F9&title=urther%27s+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://thumbs.gfycat.com/JointScarceBirdofparadise-size_restricted.gif">
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mingsomm)](https://velog.io/@mingsomm)
 
 ## Tech Stack ⚒
