@@ -1,7 +1,5 @@
-<img src="https://thumbs.gfycat.com/JointScarceBirdofparadise-size_restricted.gif"/>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mingsomm&color=dark)](https://github.com/eungyeole/velog-readme-stats)
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mingsomm)](https://velog.io/@mingsomm)
 ## Tech Stack ⚒
 - frontend
 
